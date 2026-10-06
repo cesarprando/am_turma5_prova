@@ -320,7 +320,7 @@ print("Relatório de Classificação:\n", classification_report(y_test, y_pred_p
 
 ---
 
-### Prova Prática 6: Classificação do Perfil de Qualificação do Corpo Docente
+### Prova Prática 6: Classificação do Perfil de Qualificação do Corpo Docente (escolhi essa - césar prando)
 * **Objetivo Pedagógico:** Classificar se a escola possui um corpo docente com alta proporção de professores com nível superior completo.
 * **Fontes de Dados:** `Tabela_Docente_2025` e `Tabela_Escola_2025`.
 * **Roteiro Didático de Execução:**
